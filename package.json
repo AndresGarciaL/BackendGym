@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node .",
     "dev": "nodemon server.js"
-    
   },
   "keywords": [],
   "author": "",
@@ -24,6 +23,7 @@
     "morgan": "^1.10.0",
     "multer": "^1.4.5-lts.1",
     "mysql": "^2.18.1",
+    "mysql2": "^3.6.5",
     "paypal-rest-sdk": "^1.8.1"
   },
   "type": "module",
